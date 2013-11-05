@@ -1,7 +1,7 @@
 #include <msp430.h> 
-#include "LCD.h"
-#include "button.h"
-#include "game.h"
+#include "LCD/LCD.h"
+#include "buttons/button.h"
+#include "game_shell/game.h"
 
 /*
  * main.c
